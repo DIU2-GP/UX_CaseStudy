@@ -1,11 +1,11 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Gastronomía, Ocio y Degustación) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU2_GP.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 07/03/2025
 
 Proyecto: 
 
@@ -20,8 +20,8 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Germán Vega Avila     :octocat:     
+ * :bust_in_silhouette:  Pablo Del Río López     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
