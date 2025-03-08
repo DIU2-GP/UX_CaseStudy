@@ -1,28 +1,4 @@
-### 3. [DESK RESEARCH: COMPETITOR ANALYSIS]
-
-<br>
-
-### 4. [INSPIRACIÓN] 
-
-<br> 
-
-### 5. [PERSONA]
-
-<br>
-
-### 6. [JOURNEY MAP]
-
-<br>
-
-### 7. [USABILITY REVIEW] 
-
-<br>
-
-### 8. [BRIEFING] 
-
-<br>
-
-## DIU - Práctica1, entregables  
+# DIU - Práctica1, entregables  
 
 | Archivos       | Enlace                 |
 |----------------|------------------------|
