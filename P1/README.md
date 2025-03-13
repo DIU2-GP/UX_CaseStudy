@@ -3,8 +3,8 @@
 | Archivos       | Enlace                 |
 |----------------|------------------------|
 | User Research Plan | [Enlace](./user_research_plan.md) |
-| archivo2.md    | [archivo2](./noexiste.md) |
-| archivo3.md    | [archivo3](./archivo3.md) |
+| Competitive Analysis | [Enlace](./competitive_analysis.md) |
+| Personas    | [Enlace](./personas.md) |
 
 
 
