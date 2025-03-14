@@ -4,6 +4,6 @@ Por un lado, tenemos a Natalia, una chica joven, interesada en la cultura, que v
 
 ![Persona_1](./Persona_1.png)  
 
-Por otro lado...
+Por otro lado tenemos a Emily, una mujer de 34 años inglesa, que viene a Granada de turista en busca de experiencias gastronómicas y culturalesauténticas. Ha visitado España varias veces y está enamorada de la comida mediterránea. Ahora ha decidido explorar Granada para descubrir su historia, sus tapas y sus vinos.
 
-![Persona_2](./Persona_2.png)  
+![Persona_2](./Persona2.png)  
