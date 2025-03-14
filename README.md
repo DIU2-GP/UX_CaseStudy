@@ -66,6 +66,10 @@ Empezando por las características comunes de los sitios Web que debemos estudia
 
 En nuestro caso hemos seleccionado "La Taberna De Kafka", un negocio que no cuenta con página propia pero que cuida en cierta medida su imagen en las redes sociales. Creemos que es una buena opción ya que nos permitirá definir hasta que punto es negativo no contar con una web propia, además de comparar los diferentes estilos de comunicación a través de las redes sociales. Para la comparación, utilizaremos una tabla que muestre aspectos acerca de el modelo de negocio, problemas tecnológicos, funcionalidad, usabilidad y fortalezas y debilidades de los mismos.  
 
+![Competitive_Analysis](./P1/competitor_analysis.png)
+
+Como conclusión, podemos afirmar que contar con una página web bien actualizada y funcional es de gran ayuda. Así, creemos que la Taberna De Kafka no está desarrollando esta faceta correctamente, pues muchos de sus competidores cuentan con webs con muchas funcionalidades como la reserva, consulta de precios, consulta de cartas... Por otro lado, debemos darle el punto de las redes sociales a la taberna, pues de las consultadas es la única que mantiene actualizadas sus redes sociales.
+
 -----
 
 ### 1.c Personas
@@ -74,9 +78,9 @@ Por un lado, tenemos a Natalia, una chica joven, interesada en la cultura, que v
 
 ![Persona_1](./P1/Persona_1.png)  
 
-Por otro lado...
+Por otro lado tenemos a Emily, una mujer de 34 años inglesa, que viene a Granada de turista en busca de experiencias gastronómicas y culturalesauténticas. Ha visitado España varias veces y está enamorada de la comida mediterránea. Ahora ha decidido explorar Granada para descubrir su historia, sus tapas y sus vinos.
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+![Persona_2](./persona2.png)  
 
 ### 1.d User Journey Map
 

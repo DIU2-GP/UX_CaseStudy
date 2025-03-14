@@ -5,7 +5,7 @@
 | User Research Plan | [Enlace](./user_research_plan.md) |
 | Competitive Analysis | [Enlace](./competitive_analysis.md) |
 | Personas    | [Enlace](./personas.md) |
-
+| Journey Maps | [Enlace](./journey_maps.md) |
 
 
 ## DIU - Practica1, entregables
