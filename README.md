@@ -80,7 +80,7 @@ Por un lado, tenemos a Natalia, una chica joven, interesada en la cultura, que v
 
 Por otro lado tenemos a Emily, una mujer de 34 años inglesa, que viene a Granada de turista en busca de experiencias gastronómicas y culturalesauténticas. Ha visitado España varias veces y está enamorada de la comida mediterránea. Ahora ha decidido explorar Granada para descubrir su historia, sus tapas y sus vinos.
 
-![Persona_2](./persona2.png)  
+![Persona_2](./P1/persona2.png)  
 
 -----
 
@@ -88,7 +88,7 @@ Por otro lado tenemos a Emily, una mujer de 34 años inglesa, que viene a Granad
 
 Para el primer jouney map hemos seleccionado una experiencia de usuario en la que Natalia, una chica de la zona, decide acudir para desconectar de su trabajo y conocer gente nueva. Lo hemos seleccionado porque representa a la clienta local que busca una experiencia gastronómica y cultural única. Así, podemos observar los intereses del cliente habitual que valora la oferta cultural y gastronómica y la opción de socializar.  
 
-![JouneyMapPersona1](./User_Journey_Map_1.png)  
+![JouneyMapPersona1](./P1/User_Journey_Map_1.png)  
 
 Para el segundo jounery map...
 
