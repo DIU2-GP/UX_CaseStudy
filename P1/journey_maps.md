@@ -4,4 +4,6 @@ Para el primer jouney map hemos seleccionado una experiencia de usuario en la qu
 
 ![JouneyMapPersona1](./User_Journey_Map_1.png)  
 
-Para el segundo jounery map...  
+Para el segundo jounery map hemos descrito una experiencia de usuario de Emily, una turista británica. Emily decide acudir a la taberna para descubrir la gastronomía local y vivir una experiencia auténtica. Representa a la clienta extranjera que busca una inmersión cultural a través de la comida. Así, podemos observar los intereses del turista gastronómico que valora la autenticidad, la historia detrás de los platos y la posibilidad de compartir su experiencia en redes sociales y blogs de viajes.
+
+![JouneyMapPersona2](./User_Journey_Map_2.png)  
