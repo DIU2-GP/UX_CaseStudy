@@ -82,24 +82,31 @@ Por otro lado tenemos a Emily, una mujer de 34 años inglesa, que viene a Granad
 
 ![Persona_2](./persona2.png)  
 
+-----
+
 ### 1.d User Journey Map
 
-![Método UX](img/JourneyMap.png)
-----
+Para el primer jouney map hemos seleccionado una experiencia de usuario en la que Natalia, una chica de la zona, decide acudir para desconectar de su trabajo y conocer gente nueva. Lo hemos seleccionado porque representa a la clienta local que busca una experiencia gastronómica y cultural única. Así, podemos observar los intereses del cliente habitual que valora la oferta cultural y gastronómica y la opción de socializar.  
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+![JouneyMapPersona1](./User_Journey_Map_1.png)  
+
+Para el segundo jounery map...
+
+-----
 
 ### 1.e Usability Review
 
-![Método UX](img/usabilityReview.png)
-----
+Tras realizar la revisión de usabilidad podemos concluir que las páginas son correctas en la parte de navegabilidad, funcionanmiento, errores y control, pero estas partes de cierta forma son las correspondientes al marco básico que ofrecen las redes sociales. Por otro lado, flaquea en la búsqueda, la existencia de formularios y procesos y funcionalidades adicionales, para realizar por ejemplo reservas. Creemos que deben centrarse en mejorar estos aspectos y formalizar y mejorar el diseño de las publicaciones para crear una estética acorde a la oferta en sus perfiles.
 
->>> El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>>
->>> * Enlace al documento:  (xls/pdf)
->>> * URL y Valoración numérica obtenida:
->>> * Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+Enlace al documento: [PDF](./P1/usability_review.pdf) / [Excel](./P1/Usability-review.xlsx)
+URL de los lugares seleccionados:  
 
+* <https://www.instagram.com/latabernadekafka/>  
+* <https://www.facebook.com/laTabernadeKafka/?locale=es_ES>  
+
+Valoración numérica obtenida: 49 Moderate  
+
+-----
 <br>
 
 ## Paso 2. UX Design  

@@ -6,6 +6,7 @@
 | Competitive Analysis | [Enlace](./competitive_analysis.md) |
 | Personas    | [Enlace](./personas.md) |
 | Journey Maps | [Enlace](./journey_maps.md) |
+| Usability Review | [Enlace](./usability_review.md) |
 
 
 ## DIU - Practica1, entregables
