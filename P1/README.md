@@ -7,6 +7,7 @@
 | Personas    | [Enlace](./personas.md) |
 | Journey Maps | [Enlace](./journey_maps.md) |
 | Usability Review | [Enlace](./usability_review.md) |
+| Briefing | [Enlace](./briefing.md) |
 
 
 ## DIU - Practica1, entregables
