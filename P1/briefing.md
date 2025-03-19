@@ -1,5 +1,3 @@
-
-
 # BRIEFING
 
 Tras realizar este estudio y revisión de la usabilidad, hemos llegado a las siguientes conclusiones:

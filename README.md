@@ -90,7 +90,9 @@ Para el primer jouney map hemos seleccionado una experiencia de usuario en la qu
 
 ![JouneyMapPersona1](./P1/User_Journey_Map_1.png)  
 
-Para el segundo jounery map...
+Para el segundo jounery map hemos descrito una experiencia de usuario de Emily, una turista británica. Emily decide acudir a la taberna para descubrir la gastronomía local y vivir una experiencia auténtica. Representa a la clienta extranjera que busca una inmersión cultural a través de la comida. Así, podemos observar los intereses del turista gastronómico que valora la autenticidad, la historia detrás de los platos y la posibilidad de compartir su experiencia en redes sociales y blogs de viajes.
+
+![JouneyMapPersona2](./P1//User_Journey_Map_2.png)  
 
 -----
 
@@ -107,6 +109,21 @@ URL de los lugares seleccionados:
 Valoración numérica obtenida: 49 Moderate  
 
 -----
+
+### 1.f Briefing
+
+Tras realizar este estudio y revisión de la usabilidad, hemos llegado a las siguientes conclusiones:
+
+* **Presencia digital limitada**: La Taberna de Kafka es un referente gastronómico en Granada, pero actualmente **no cuenta con una página web**, lo que restringe su capacidad para atraer clientes potenciales, especialmente turistas que buscan información en línea antes de decidir dónde comer.
+
+* **Competencia con funcionalidades avanzadas**: Algunos de sus competidores ofrecen sitios web con **reservas online, consulta de cartas y precios**, lo que facilita la experiencia del usuario y optimiza el proceso de toma de decisiones.
+
+* **Fortaleza en redes sociales**: A diferencia de sus competidores, la taberna mantiene **redes sociales actualizadas**, lo que le permite conectar con su comunidad y compartir novedades. Sin embargo, esto no sustituye la necesidad de una web bien estructurada.
+
+Contar con una **página web funcional y actualizada** permitiría a la Taberna de Kafka **mejorar su accesibilidad, diferenciarse de la competencia y optimizar la experiencia del cliente** desde el primer punto de contacto.
+
+-----
+
 <br>
 
 ## Paso 2. UX Design  
