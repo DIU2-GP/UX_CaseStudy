@@ -128,21 +128,20 @@ Contar con una **página web funcional y actualizada** permitiría a la Taberna 
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+### 2.a IDEACION: Feedback Capture Grid
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map
+A partir de la práctica anterior, en la que analizamos la experiencia de usuario, hemos identificado tanto aspectos positivos como negativos en la accesibilidad e información que muestra el local en internet. Entre los positivos, podemos destacar que utilizan las redes sociales a menudo, es fácil encontrarlos y contactar, sim embargo, no cuentan con opciones de reserva online ni ofrecen más información como podría ser la carta del local. Para tratar estos problemas proponemos el desarrollo de una página web propia que permita ofrecer todo este tipo de servicios y mejorar así la experiencia del usuario.  
 
-![Método UX](img/feedback-capture-grid.png)
-----
+Para organizar todos estos aspectos hemos creado una malla receptora con todas estas ideas.  
+![MallaReceptora](.P2/malla_receptora.png)  
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+Podemos por tanto concluir que el principal problema en la experiencia de usuario es que se limita únicamente a la consulta de información, que en ocasiones puede estar desactualizada, y ni siquiera se ofrecen filtros para la búsqueda.  
+Nuestra propuesta de valor consiste por tanto en crear una página web propia que permita:  
 
- Interesante | Críticas
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+* Reservar a través de la web  
+* Acceder a información acerca del local en tiempo real (espacio disponible, aviso de productos agotados, tiempo de espera para entrar, nivel de ruido...)
+* Implementar un servicio exclusivo basado en invitaciones, parecido a BestSecret o Veepee.
+* Mostrar menús y precios así como recomendaciones y enlaces a otros sitios de interés relacionados.  
 
 ### 2.b ScopeCanvas
 

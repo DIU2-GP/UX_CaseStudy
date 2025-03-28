@@ -1,9 +1,13 @@
 ## DIU - Practica2, entregables
 
+
+| Archivos       | Enlace                 |
+|----------------|------------------------|
+| Malla Receptora de Información | [Enlace](ideacion_malla_receptora.md) |
+
+
 ### Ideación 
 * Malla receptora de información 
-* Mapa de empatía
-* Point of View 
 
 
 ### PROPUESTA DE VALOR
