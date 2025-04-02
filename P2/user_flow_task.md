@@ -8,15 +8,15 @@ Los usuarios tendríamos dos tipos, el básico y el premium. El segundo serían 
 
 | Tareas       | Usuario Básico | Usuario  Premium |
 |--------------|----------------|------------------|
-| Consultar información | :write_check_mark: | :write_check_mark: |
-| Consultar publicaciones | :write_check_mark: | :write_check_mark: |
-| Registrarse (Con un código) | :write_check_mark: | :x: |
-| Iniciar Sesión | :x: | :write_check_mark: |
-| Subscribirse a la Newsletter | :write_check_mark: | :write_check_mark: |
-| Consultar la galería de fotos | :write_check_mark: | :write_check_mark: |
-| Reservar una mesa | :write_check_mark: | :write_check_mark: |
-| Reservar plaza en una cata de vino o evento | :x: | :write_check_mark: |
-| Cancelar reserva | :write_check_mark: | :write_check_mark: |
+| Consultar información | :heavy_check_mark: | :heavy_check_mark: |
+| Consultar publicaciones | :heavy_check_mark: | :heavy_check_mark: |
+| Registrarse (Con un código) | :heavy_check_mark: | :x: |
+| Iniciar Sesión | :x: | :heavy_check_mark: |
+| Subscribirse a la Newsletter | :heavy_check_mark: | :heavy_check_mark: |
+| Consultar la galería de fotos | :heavy_check_mark: | :heavy_check_mark: |
+| Reservar una mesa | :heavy_check_mark: | :heavy_check_mark: |
+| Reservar plaza en una cata de vino o evento | :x: | :heavy_check_mark: |
+| Cancelar reserva | :heavy_check_mark: | :heavy_check_mark: |
 
 ## Task Flow  
 
