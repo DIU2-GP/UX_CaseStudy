@@ -3,7 +3,11 @@
 
 | Archivos       | Enlace                 |
 |----------------|------------------------|
-| Malla Receptora de Información | [Enlace](ideacion_malla_receptora.md) |
+| Malla Receptora de Información | [Enlace](./ideacion_malla_receptora.md) |
+| Propuesta de Valor: ScopeCanvas | [Enlace](./scope%20canvas.png) |
+| User Flow Task | [Enlace](./user_flow_task.md)|
+| SiteMap | [Enlace](./sitemap.png) |
+| Labelling | [Enlace](./labelling.png) |
 
 
 ### Ideación 

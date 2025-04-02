@@ -145,29 +145,50 @@ Nuestra propuesta de valor consiste por tanto en crear una página web propia qu
 
 ### 2.b ScopeCanvas
 
-![Método UX](img/ScopeCanvas.png)
-----
-
 >>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
 >>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
+![ScopeCanvar](./P2/scope%20canvas.png)
+
 ### 2.b User Flow (task) analysis
 
-![Método UX](img/Sitemap.png)
------
+#### User Task Matrix
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+Un "User Task Matrix" es una herramienta que nos servirá para organizar y  visualizar las tareas que podrán realizar los usuarios en nuestra página web. La utilizaremos para mostrar cuales serían las tareas que se podrían realizar y los usuarios que tendrían acceso a las mismas.  
+
+Los usuarios tendríamos dos tipos, el básico y el premium. El segundo serían aquellos que pertenecen al grupo de clientes que se han registrado en la página a través de un código de invitación, para crear ese servicio de venta privada, o acceso privado, que se plantea en la malla receptora.
+
+| Tareas       | Usuario Básico | Usuario  Premium |
+|--------------|----------------|------------------|
+| Consultar información | :write_check_mark: | :write_check_mark: |
+| Consultar publicaciones | :write_check_mark: | :write_check_mark: |
+| Registrarse (Con un código) | :write_check_mark: | :x: |
+| Iniciar Sesión | :x: | :write_check_mark: |
+| Subscribirse a la Newsletter | :write_check_mark: | :write_check_mark: |
+| Consultar la galería de fotos | :write_check_mark: | :write_check_mark: |
+| Reservar una mesa | :write_check_mark: | :write_check_mark: |
+| Reservar plaza en una cata de vino o evento | :x: | :write_check_mark: |
+| Cancelar reserva | :write_check_mark: | :write_check_mark: |
+
+#### Task Flow  
+
+A continuación se mostrarán los Task Flow de algunas de las tareas que aparecen en la tabla anterior.  
+
+El primer Task Flow abarca la operación de Reservar plaza en una cata de vino o evento. Podemos ver como para realizar tal acción, el usuario debe iniciar sesión obligatoriamente y una vez hecho esto, se le mostrarán los eventos y podrá inscribirse o reservar para alguno si es de su interés.  
+
+![TaskFlowReservarEvent](P2/reserva_de_evento.png)  
+
+En el segundo Task Flow se muestra como el usuario puede navergar por las publicaciones de la página principal y que ocurre al interaccionar con ellas. Estas publicaciones pueden dividirse en dos grupos, publicación normal, que serían aquellas en las que por ejemplo se comenta la existencia de nuevos vinos en la carta, se promociona una nueva tapa o se comparte una actualización en general del negocio. Las otras publicaciones son las de evento, que sirven para promocionar estos y ofrecer más información acerca de los mismos, como por ejemplo personas invitadas que acudirán o detalles sobre la fecha y la hora. Para facilitar la reserva de mesas o asistencias a eventos existirán enlaces directos desde las publicaciones para estas cuestiones, aunque si no está interesado el usuario siempre puede volver atrás.
+
+![TaskFlowNavegacionEventos](P2/navegar_por_publicaciones.png)
 
 ### 2.c IA: Sitemap + Labelling
 
-![Método UX](img/labelling.png)
-----
+Diagrama tipo Sitemap de la página y tabla de Labelling asociada al mismo:
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app).
+![SiteMap](./P2/sitemap.png)
 
-Término | Significado
-| ------------- | -------
-  Login  | acceder a plataforma
+![Labelling](./P2/labelling.png)  
 
 ### 2.d Wireframes
 
