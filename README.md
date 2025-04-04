@@ -10,11 +10,11 @@ Actualizado: 07/03/2025
 
 Proyecto:
 
->>> Decida el nombre corto de su propuesta en la práctica 2
+Página Web Taberna de Kafka
 
 Descripción:
 
->>> Describa la idea de su producto en la práctica 2
+Desarrollo de una página web que permita al negocio La Taberna de Kafka para mejorar la experiencia de usuario, que actualmente se limita a la consulta de información, y ofrecer servicios actualizados como la reserva a través de internet, la consulta de información en tiempo real, o la subscripción a información, para permitir a la taberna modernizarse y adaptarse a las necesidades digitales de sus clientes.
 
 Logotipo:
 
@@ -144,9 +144,6 @@ Nuestra propuesta de valor consiste por tanto en crear una página web propia qu
 * Mostrar menús y precios así como recomendaciones y enlaces a otros sitios de interés relacionados.  
 
 ### 2.b ScopeCanvas
-
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
 
 ![ScopeCanvar](./P2/scope%20canvas.png)
 
