@@ -189,11 +189,35 @@ Diagrama tipo Sitemap de la página y tabla de Labelling asociada al mismo:
 
 ### 2.d Wireframes
 
-![Método UX](img/Wireframes.png)
+Para la elaboración de los bocetos hemos utilizado Figma, lo que nos permite simular la distribución y organización del layout para una página web en un ordenador. Los wireframes realizados son:
+
+#### Página Inicio
+
+Esta sería la página principal que se mostraría al entrar a la web.
+
+![PaginaInicio](./P2/PaginaInicio.png)
+
+#### Página Eventos
+
+Esta sería la página de eventos, la cual muestra todos los eventos ordenados por fecha en una lista desplazable.
+
+![PaginaEventos](./P2/Eventos.png)
+
+#### Página Evento
+
+Se muestra la página de un evento concreto, en la cual se ofrece más informacióna acerca del mismo.
+
+![PaginaEvento](./P2/Evento.png)
+
+#### Página de Reserva
+
+Se muestra a continuación el formulario que el usuario debería rellenar para reservar una mesa o un evento.  
+En la parte derecha, se mostraría el horario del local o del evento, y una recomendación de a que hora/día reservar
+en función de las necesidades del local y la disponibilidad.
+
+![FormularioReserva](./P2/FormularioReservarMesaEvento.png)
+
 -----
-
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada
-
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)

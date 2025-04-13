@@ -8,30 +8,7 @@
 | User Flow Task | [Enlace](./user_flow_task.md)|
 | SiteMap | [Enlace](./sitemap.png) |
 | Labelling | [Enlace](./labelling.png) |
-
-
-### Ideación 
-* Malla receptora de información 
-
-
-### PROPUESTA DE VALOR
-* ScopeCanvas
-
-
-### TASK ANALYSIS
-
-* User Task Matrix 
-* User/Task flow
-
-
-### ARQUITECTURA DE INFORMACIÓN
-
-* Sitemap 
-* Labelling 
-
-
-### Prototipo Lo-FI Wireframe 
-
+| Bocetos Lo-Fi | [Enlace](./bocetos.md) |
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
