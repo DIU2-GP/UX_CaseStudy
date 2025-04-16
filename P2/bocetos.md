@@ -28,3 +28,26 @@ En la parte derecha, se mostraría el horario del local o del evento, y una reco
 en función de las necesidades del local y la disponibilidad.
 
 ![FormularioReserva](./FormularioReservarMesaEvento.png)
+
+
+## Área Cliente - Acceso
+
+Aquí se muestra la página de registro/acceso junto con la newsletter.
+El apartado de newsletter permanecerá fijo mientras que el de registro dependerá de si el usuario está o no logueado.
+
+![AreaClienteInvitado](./AREA_CLIENTE_invitado.png)
+
+
+## Área Cliente - Mis datos
+
+Aquí encontramos el apartado donde un usuario logueado puede ver y modificar sus datos.
+
+![AreaClienteDatos](./AREA_CLIENTE_misdatos.png)
+
+
+## Área Cliente - Mis Código de invitación
+
+Subpágina del área cliente donde se puede visualizar el código de invitación del usuario junto con los usos disponibles.
+Además, aquí se explica el funcionamiento del sistema de invitación en el que cada usuario puede invitar a determinado número de nuevos usuarios.
+
+![AreaClienteDatos](./AREA_CLIENTE_invitacion.png)
