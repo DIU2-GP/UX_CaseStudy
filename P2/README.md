@@ -11,8 +11,7 @@
 | Bocetos Lo-Fi | [Enlace](./bocetos.md) |
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
 
+Esta segunda práctica ha sido muy interesante pues, a partir del análisis de la experiencia de usuario hemos desarrollado varias ideas para mejorarla. Hemos concretado nuestras ideas utilizando diferentes técnicas para representar una posible solución de forma más clara. Los bocetos nos han resultado especialmente interesantes, ya que nos han permitido visualizar nuestras ideas, corregir errores y detectar posibles mejoras.  
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+En cuanto al desempeño del grupo, seguimos trabajando correctamente como en la práctica 1.
