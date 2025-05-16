@@ -245,23 +245,32 @@ Además, aquí se explica el funcionamiento del sistema de invitación en el que
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 3.a Moodboard
 
-![Método UX](img/moodboard.png)
------
+A través de este moodboard intentamos definir una guía de estilo visual para nuestra propuesta, una página web que permita realizar reservas, obtener información y en definitiva mejorar la experiencia al visitar la Taberna de Kafka.
 
->>> Diseño visual con una guía de estilos visual (moodboard)
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Para diseñar el moodboard utilizamos Figma para hacer el diseño del mismo, y otras herramientas como Paletton para escoger la paleta de colores de forma correcta y Fonts de google para establecer las fuentes.
+
+Para diseñar el logotipo utilizamos Figma y Photoshop. El logotipo es un rediseño del cartel actual del local. Para simplificarlo y hacer que funcione como logotipo nos decidimos por escoger la parte más importante del mismo, la K, y para darle un toque que recuerde al vino, más allá de la figura de copa introducida en la sombra de la letra, decidimos utilizar el color principal de la página web para hacer un degradado de color.  
+
+En este moodboard que mostramos a continuación se incluye:
+
+* Un pequeño resumen de nuestro objetivo
+* Logotipo
+* Fuentes
+* Paleta de colores
+* Iconos y símbolos a utilizar
+* Varias imágenes inspiradoras para nuestro diseño  
+
+![Moodboard](./moodboard.png)
 
 ### 3.b Landing Page
 
-![Método UX](img/landing-page.png)
-----
+Nuestra landing page nace con el objetivo de atraer a aquellas personas interesadas en experiencias gastronómicas únicas, relacionadas principalmente con el vino. Para ello, esta página cuenta con una imagen que se encarga de definir correctamente la temática principal del local, el vino y las catas, y además cuenta con una frase inspirado que muestra la atmósfera que encontrará el cliente en el local. Por otro lado, se describen varios puntos interesantes acerca de la actividad desarrollada y ofrece, en el footer, información adicional como el horario o la ubicación del establecimiento. Antes de este último elemento, encontramos el CTA de la página, un botón de reserva que nos llevará a la página que nos permita reserva una mesa en el local.
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+Esto permitirá a la taberna atraer a gente con una experiencia visual organizada, limpia, sencilla y directa.
+
+![LandingPage](./landingpage.png)
 
 ### 3.c Guidelines
 
