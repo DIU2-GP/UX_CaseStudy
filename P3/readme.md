@@ -10,5 +10,10 @@
 
 ### Conclusiones  
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Esta tercera práctica ha supuesto un paso importante en la evolución del proyecto, ya que nos ha permitido transformar nuestras ideas iniciales en un prototipo adaptado a dispositivos móviles. Gracias al uso de Figma y al uso de guías de estilo y patrones de diseño, hemos podido estructurar visualmente la interfaz, simular su funcionalidad y verificar su coherencia estética y funcional.
+
+La elaboración del moodboard y la definición de una landing page nos han ayudado a consolidar la identidad visual del proyecto, facilitando la toma de decisiones sobre elementos clave como tipografías, paleta de colores, iconografía y estilo gráfico. Asimismo, el uso de patrones de interacción y componentes reutilizables ha favorecido la coherencia y escalabilidad del diseño.
+
+A nivel de grupo, el trabajo ha sido fluido y bien coordinado, manteniendo la misma dinámica colaborativa que en las prácticas anteriores. Como mejora futura, sería interesante realizar pruebas de usabilidad con usuarios reales para validar la efectividad del diseño antes de avanzar a su implementación funcional.
+
+
