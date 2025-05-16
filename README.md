@@ -262,7 +262,7 @@ En este moodboard que mostramos a continuación se incluye:
 * Iconos y símbolos a utilizar
 * Varias imágenes inspiradoras para nuestro diseño  
 
-![Moodboard](./moodboard.png)
+![Moodboard](./P3/moodboard.png)
 
 ### 3.b Landing Page
 
@@ -270,15 +270,34 @@ Nuestra landing page nace con el objetivo de atraer a aquellas personas interesa
 
 Esto permitirá a la taberna atraer a gente con una experiencia visual organizada, limpia, sencilla y directa.
 
-![LandingPage](./landingpage.png)
+![LandingPage](./P3/landingpage.png)
 
 ### 3.c Guidelines
 
 ![Método UX](img/guidelines.png)
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
+En esta sección explicamos los patrones de diseño utilizados en la versión móvil de nuestro prototipo. Se emplearán componentes reutilizables de direferente librerías además de otros que nosotros mismo diseñaremos. Esto facilitará la coherencia en el diseño, la accesibilidad y la claridad visual tan determinantes en el diseño para dispositivos móviles.
+
+Principalmente utilizaremos los diseños de diferentes librerrías de componentes de figma:
+
+* iOS 18 and iPadOS 18 UI Kit
+* Material 3 Design Kit
+* Simple Design System
+
+A partir de estos componentes, nosotros hemos utilizado algunos directamente, y reutilizados otros para crear los nuestros propios.
+A continuación se presentan en formato imagen los diferentes patrones utilizados entre los que podemos ver:
+
+* Barra de navegación
+* Menu 
+* Cabecera
+* Pie de página
+* Botones
+* Formulario
+* Lista deslizable
+* Formularios
+
+![GuideLines](./P3/guidelines.png)
 
 ### 3.d Mockup
 
