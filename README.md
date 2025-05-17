@@ -307,9 +307,6 @@ Para ver el Mockup de nuestra aplicación puedes pinchar en el siguiente enlace:
 
 ### 3.e ¿My UX-Case Study?
 
-![Método UX](img/caseStudy.png)
------
-
 Este readme es un resumen del case study realizado.
 
 <br>
