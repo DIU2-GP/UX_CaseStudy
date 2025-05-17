@@ -20,7 +20,7 @@ Logotipo:
 
 El logotipo es un rediseño del cartel actual del local. Para simplificarlo y hacer que funcione como logotipo nos decidimos por escoger la parte más importante del mismo, la K, y para darle un toque que recuerde al vino, más allá de la figura de copa introducida en la sombra de la letra, decidimos utilizar el color principal de la página web para hacer un degradado de color.
 
-![Logotipo](./P3/logotipo.png)
+<img src="./P3/logotipo.png" alt="Logotipo" width="200" height="200"/>
 
 Miembros:
 
@@ -310,8 +310,7 @@ Para ver el Mockup de nuestra aplicación puedes pinchar en el siguiente enlace:
 ![Método UX](img/caseStudy.png)
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+Este readme es un resumen del case study realizado.
 
 <br>
 
