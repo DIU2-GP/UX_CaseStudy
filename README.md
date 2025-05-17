@@ -303,7 +303,7 @@ A continuación se presentan en formato imagen los diferentes patrones utilizado
 
 ### 3.d Mockup
 
-Para ver el Mockup de nuestra aplicación puedes pinchar en el siguiente enlace: [Mockup](https://www.figma.com/proto/H6MAbSNR6fP3zFImcuXvOs/Pagina-Inicio-Mockup?page-id=0%3A1&node-id=1-2&viewport=402%2C181%2C0.2&t=MRlfMIh0oxqF1L89-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2)
+Para ver el Mockup de nuestra aplicación puedes clickar en el siguiente enlace: [Mockup](https://www.figma.com/proto/H6MAbSNR6fP3zFImcuXvOs/Pagina-Inicio-Mockup?page-id=0%3A1&node-id=1-2&viewport=402%2C181%2C0.2&t=MRlfMIh0oxqF1L89-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2)
 
 ### 3.e ¿My UX-Case Study?
 
