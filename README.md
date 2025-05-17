@@ -18,7 +18,9 @@ Desarrollo de una página web que permita al negocio La Taberna de Kafka para me
 
 Logotipo:
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+El logotipo es un rediseño del cartel actual del local. Para simplificarlo y hacer que funcione como logotipo nos decidimos por escoger la parte más importante del mismo, la K, y para darle un toque que recuerde al vino, más allá de la figura de copa introducida en la sombra de la letra, decidimos utilizar el color principal de la página web para hacer un degradado de color.
+
+![Logotipo](./P3/logotipo.png)
 
 Miembros:
 
@@ -301,10 +303,7 @@ A continuación se presentan en formato imagen los diferentes patrones utilizado
 
 ### 3.d Mockup
 
-![Método UX](img/mockup.png)
-----
-
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+Para ver el Mockup de nuestra aplicación puedes pinchar en el siguiente enlace: [Mockup](https://www.figma.com/proto/H6MAbSNR6fP3zFImcuXvOs/Pagina-Inicio-Mockup?page-id=0%3A1&node-id=1-2&viewport=402%2C181%2C0.2&t=MRlfMIh0oxqF1L89-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2)
 
 ### 3.e ¿My UX-Case Study?
 
