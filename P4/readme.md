@@ -13,5 +13,15 @@
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 - Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
+## DIU - Practica 3, entregables
+
+| Archivos       | Enlace                 |
+|----------------|------------------------|
+| Usuarios | [Enlace](./participantes.md) |
+| Diseño de pruebas | [Enlace](./diseño_de_pruebas.md) |
+| Cuestionarios SUS | [Enlace](./cuestionarios_sus.md) |
+| Tabla A/B Testing | [Enlace](./)|
+| Eye Tracking para A y B | [Enlace](./eye_tracking.md) |
+| Usability Report | [Enlace](./usability_report.md) |
+
 >>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
