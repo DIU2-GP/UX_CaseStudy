@@ -433,34 +433,10 @@ En ambos casos, se muestra como la mayoría de las areas de interés definidas s
 
 ### 4.f Usability Report de B
 
-![Método UX](img/usability-report.png)
------
-
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad.
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
-<br>
-
-## Paso 5. Exportación y Documentación
-
-### 5.a Exportación a HTML/React
-
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-### 5.b Documentación con Storybook
-
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+En el siguiente enlace se encuentra el Usability Report realizado para el proyecto B. [Enlace](./P4/usability_report.md)
 
 <br>
 
 ## Conclusiones finales & Valoración de las prácticas
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona
+Para nosotros han sido unas prácticas muy interesantes ya que, desde un principio, hemos trabajado realizando tareas completamente nuevas para nosotros que nos permitían descubrir cómo evaluar la usabilidad de páginas web a la vez que descubríamos los principios del diseño centrado en el usuario. Durante todas las prácticas hemos trabajado en grupo de forma enriquecedora y hemos aprendido haciendo, algo que se agrecede debido a la existencia en ocasiones de asignaturas demasiado teóricas durante la carrera. Además, que las prácticas sean incrementales nos permiten corregir errores anteriores y motivanos aún más a realizar un buen trabajo.  
