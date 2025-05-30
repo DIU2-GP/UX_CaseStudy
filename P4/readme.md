@@ -24,7 +24,8 @@ Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-t
 | Eye Tracking para A y B | [Enlace](./eye_tracking.md) |
 | Usability Report | [Enlace](./usability_report.md) |
 
->>>> Conclusiones
+## Conclusiones de la práctica
+
 Esta práctica nos ha permitido aplicar un proceso completo de evaluación de usabilidad sobre un prototipo funcional, utilizando herramientas profesionales como Maze. Hemos aprendido a diseñar y ejecutar tests con usuarios, definir tareas clave, y recoger datos tanto cuantitativos como cualitativos.
 
 El uso del cuestionario SUS y las encuestas post-test nos ha ayudado a estructurar la recogida de feedback de forma rigurosa. Esta fase ha sido especialmente útil para detectar mejoras en la interfaz antes de pasar al desarrollo final.
