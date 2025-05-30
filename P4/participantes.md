@@ -8,6 +8,6 @@ En este caso, se han seleccionado 4 participantes para realizar las pruebas de l
 | 1          | 21 Mujer  | Estudiante de Ingeniería Informática | Avanzado | Móvil | A | Todos | 82.5 |
 | 2          | 22 Mujer | Estudiante de Ingeniería Informática | Avanzado | Móvil | B | Todos | 42.5 |
 | 3          | 59 Mujer  | Ama de casa | Bajo | Móvl | A | Todos | 82.5 |
-| 4          | 25 Hombre  | Asesor inmobiliaria | Avanzado | Móvil | A | B | 60 |
+| 4          | 25 Hombre  | Asesor inmobiliaria | Avanzado | Móvil | B | Todos | 60 |
 
 
