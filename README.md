@@ -315,54 +315,117 @@ Este readme es un resumen del case study realizado.
 
 ### 4.a Reclutamiento de usuarios
 
-![Método UX](img/usability-testing.png)
------
+El caso que se nos ha asignado para llevar a cabo el método A/B Testing corresponde al grupo DIU1.AmbosMarcan.  
+Podemos encontrar su repositorio de GitHub [aquí](https://github.com/RodriDelo/UX_CaseStudy).
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+En este caso, se han seleccionado 4 participantes para realizar las pruebas de la aplicación. Esperamos que esta muestra sea representativa de las personas que utilizarán la aplicación, aunque al ser tan pocas personas es probable que esté sesgada de alguna forma.  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B
+|   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|
+|#id. usuario|Sexo/edad|Ocupación|Experiencia internet|Plataforma|Perfil cubierto|TEST|SUS score|
+| 1          | 21 Mujer  | Estudiante de Ingeniería Informática | Avanzado | Móvil | A | Todos | 82.5 |
+| 2          | 22 Mujer | Estudiante de Ingeniería Informática | Avanzado | Móvil | B | Todos | 42.5 |
+| 3          | 59 Mujer  | Ama de casa | Bajo | Móvl | A | Todos | 82.5 |
+| 4          | 25 Hombre  | Asesor inmobiliaria | Avanzado | Móvil | B | Todos | 60 |
+
 
 ### 4.b Diseño de las pruebas
 
-![Método UX](img/usability-testing.png)
------
+Vamos a utilizar la herramienta maze para diseñar y llevar a cabo las pruebas remotas de los usuarios seleccionados. Crearemos dos proyectos, uno para nuestro proyecto (A) y otro para el que debemos evaluar (B).  
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+En ellos, se realizarán unas cuantas preguntas de control a los usuarios, para obtener un perfil del mismo. A continuación, se realizará una prueba de navegación libre por la página web del proyecto, o se le encomendará una tarea al usuario. Una vez finalizada, la persona deberá contestar nuevamente unas preguntas que hemos considerado interesantes para la evaluación de la web. Finalmente, se le pasará el test SUS para completar la evaluación.
+
+Además de maze, utilizaremos GazeRecorder para realizar una prueba de Eye Tracking sobre los usuarios y obtener mapas de calor de las páginas principales de la web para conocer donde se fijan más nuestros usuarios.
+
+Por tanto, utilizaremos un modelo A/B Testing con las siguientes pruebas:  
+
+* Preguntas de control para conocer el perfil del usuario
+* Navegación libre o realización de una tarea en la página web
+* Preguntas de evaluación de la web de elaboración propia
+* Cuestionario SUS
+* Eye Tracking de la web
+
+Finalmente, toda esta información la resumiremos en el Usability Report que realizaremos.  
 
 ### 4.c Cuestionario SUS
 
-![Método UX](img/Survey.png)
-----
+El cuestionario SUS es una batería de preguntas que se responden según una escalar Likert que sirve para evaluar la usabilidad percibida de un producto o aplicación digital. En este caso, evaluamos la usabilidad de nuestro proyecto y del proyecto B.
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-<http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/>)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados
+En este caso, la puntuación de los cuestionarios para la aplicación A es de 82.5 en ambos casos. Esta aplicación entraría por tanto en la calificación Aceptable. Esto nos muestra que a la gente le ha gustado nuestra aplicación y la recomendaría a sus amigos. Por tanto, podemos decir que la aplicación es intuitiva, fácil de entender y aprender y satisfactoria de usar, que en la mayoría de ocasiones, es lo más importante.
+
+Por otro lado, las puntuaciones del proyecto B son de 60 y 42.5. Podemos afirmar que el diseño de la aplicación no es aceptable, entraría dentro de la calificación de Marginal, muy cerca de lo Inaceptable, pues se encuentra por debajo del umbral mínimo (68). Esto nos indica que la página es complicada de utilizar o no se entiende correctamente por los usuarios. Probablemente sea compleja en términos de navegación y no tenga todas las funcionalidades que se esperaba en un sitio de este tipo.  
+
+A continuación se muestran los test realizados a los usuarios:
+
+[CuestionariosSUS](./cuestionarios_sus.pdf)  
 
 ### 4.d A/B Testing
 
-![Método UX](img/ABtesting.png)
------
+##### Objetivo
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+Evaluar cuál de las dos aplicaciones web proporciona una mejor experiencia de usuario en términos de navegación, confianza visual, claridad funcional y facilidad de uso.
+
+##### Proceso de Testing
+
+###### 1. **Pregunta de filtrado**
+
+Antes de iniciar la prueba, se realizó una pregunta de filtrado para un posterior estudio de los usuarios testados:
+
+> "¿Usas internet normalmente para comprar o reservar?"
+
+
+###### 2. **Exploración libre del prototipo**
+
+Utilizando el módulo **Prototype Test** de Maze, se presentó a los usuarios el prototipo navegable de la web. Se les indicó lo siguiente:
+
+> "Navega libremente por toda la aplicación y experimenta todas las funcionalidades que te parezcan relevantes."
+
+###### 3. **Tarea específica por versión**
+
+Además de la navegación libre, se solicitó a los usuarios que completaran una **tarea clave** en función de la versión del prototipo:
+
+* **Versión A:** Reservar una cata de vinos.
+* **Versión B:** Añadir un elemento a la cesta.
+
+Esta fase buscó evaluar la claridad y accesibilidad de las funciones principales.
+
+###### 4. **Cuestionario posterior**
+
+Una vez finalizada la navegación y la tarea principal, se les presentó a los usuarios el siguiente cuestionario:
+
+* **¿Te ha parecido sencilla la navegación?**
+* **¿El diseño te inspira confianza para comprar o visitar el lugar?**
+* **¿Cuánto tiempo le ha llevado la navegación y uso de la Web?**
+* **¿El estilo visual refleja adecuadamente el tipo de negocio?**
+* **¿Encontraste todas las funcionalidades que esperabas encontrar?**
+* **¿Tuviste que hacer muchos clics para encontrar lo que buscabas?**
+
+##### Resultados
+
+Tras realizar las pruebas y analizar los resultados, podemos concluir que la aplicación A es más usable que la aplicación B ya que obtiene mejor puntuación tanto en el cuestionario SUS como en las respuestas a las cuestiones propias planteadas. Además los mapas de calor del eye tracking, que se explican a continuación, son más coherentes en A.  
 
 ### 4.e Aplicación del método Eye Tracking
 
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Para realizar la prueba de Eye Tracking hemos utilizado la herramienta GazeRecorder. Esto nos ha permitido obtener mapas de calor acerca de donde centran los usuarios la atención. Se realizaron varias pruebas, una a cada usuario, que nos permitió obtener un par de muestras para cada proyecto.  
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+Se dió un tiempo de 6 segundos para cada imagen.
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione)
+Entre los puntos de interés que podemos encontrar en los bocetos del proyecto A encontramos:
+
+* Página de Inicio: Información en tiempo real del local y botón de reserva para el evento de la semana.
+* Página de Eventos: Fecha, títulos y bótones de saber más y reservar.
+* Página de un Evento Específico: Título e información importante.  
+* Página de Reserva de Mesa: Fecha y Hora.
+
+Entre los pintos de interés que podemos encontrar de los bocetos del proyecto B encontramos:  
+
+* Landing page: Botón de inicio.
+* Página de Registro: Campos a rellenar y el botón de registro.
+* Página de Inicio: Recomendados y los 3 botones centrales.
+* Página de Compra Habitual: Botones de la parte inferior. 
 
 ### 4.f Usability Report de B
 
