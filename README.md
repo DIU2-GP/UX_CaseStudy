@@ -357,7 +357,7 @@ Por otro lado, las puntuaciones del proyecto B son de 60 y 42.5. Podemos afirmar
 
 A continuación se muestran los test realizados a los usuarios:
 
-[CuestionariosSUS](./cuestionarios_sus.pdf)  
+[CuestionariosSUS](./P4/cuestionarios_sus.pdf)  
 
 ### 4.d A/B Testing
 
@@ -406,9 +406,6 @@ Tras realizar las pruebas y analizar los resultados, podemos concluir que la apl
 
 ### 4.e Aplicación del método Eye Tracking
 
-![Método UX](img/eye-tracking.png)
-----
-
 Para realizar la prueba de Eye Tracking hemos utilizado la herramienta GazeRecorder. Esto nos ha permitido obtener mapas de calor acerca de donde centran los usuarios la atención. Se realizaron varias pruebas, una a cada usuario, que nos permitió obtener un par de muestras para cada proyecto.  
 
 Se dió un tiempo de 6 segundos para cada imagen.
@@ -426,6 +423,13 @@ Entre los pintos de interés que podemos encontrar de los bocetos del proyecto B
 * Página de Registro: Campos a rellenar y el botón de registro.
 * Página de Inicio: Recomendados y los 3 botones centrales.
 * Página de Compra Habitual: Botones de la parte inferior. 
+
+A continuación se encuentran dos pdfs con los resultados:
+
+[ResultadosA](./P4/EyeTrackingA.pdf)
+[ResultadosB](./P4/EyeTrackingB.pdf)
+
+En ambos casos, se muestra como la mayoría de las areas de interés definidas son donde se centra la atención de los usuarios.
 
 ### 4.f Usability Report de B
 

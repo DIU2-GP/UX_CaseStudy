@@ -18,3 +18,9 @@ Entre los pintos de interés que podemos encontrar de los bocetos del proyecto B
 * Página de Inicio: Recomendados y los 3 botones centrales.
 * Página de Compra Habitual: Botones de la parte inferior.  
 
+A continuación se encuentran dos pdfs con los resultados:
+
+[ResultadosA](./EyeTrackingA.pdf)
+[ResultadosB](./EyeTrackingB.pdf)
+
+En ambos casos, se muestra como la mayoría de las areas de interés definidas son donde se centra la atención de los usuarios.
