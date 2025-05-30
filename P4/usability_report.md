@@ -6,9 +6,9 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### Logic-Ecologic
 
-### (Fecha)
+### 30/05/2025
 
 
 
@@ -16,21 +16,13 @@
 
 [img Proyecto]
 
-[Enlace a GITHUB del proyecto]
-
-
+https://github.com/RodriDeLo/UX_CaseStudy
 
 
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
-
-
-
-
-
+Informe realizado por **Equipo GP**. Contamos con experiencia en diseño centrado en el usuario y validación de interfaces mediante testeo remoto. Este estudio se ha desarrollado dentro del marco del curso, con enfoque práctico en prototipado y evaluación de usabilidad.
 
 
 
@@ -38,39 +30,50 @@
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
+**Logic-Ecologic** es una aplicación web destinada a la compra de productos de alimentación online, con un enfoque en productos sostenibles locales de Granada. El objetivo de la plataforma es facilitar una experiencia de compra intuitiva, confiable y apoyando a productores responsables, accedediendo a alimentos frescos y de temporada, y contribuyendo activamente a un modelo de consumo más consciente, saludable y ecológico.
 
  
-
+---
 
 
 ## 2 RESUMEN EJECUTIVO
 
+Este documento recoge los resultados del test de usabilidad realizado sobre el prototipo **versión B** de Logic-Ecologic, utilizando herramientas como **Maze** para evaluar navegación, percepción visual y facilidad de uso.
 
+**Resumen de problemas detectados:**
 
-[ Breve descripción de lo que contiene el documento 
+* Baja percepción de simplicidad en la navegación.
+* Confianza moderada en el diseño para realizar compras.
+* Los usuarios no encontraron todas las funcionalidades esperadas.
+* El estilo visual sí fue valorado como adecuado para el tipo de negocio.
 
-y Resumen conciso de problemas detectados ]
-
-
-
-
-
-
-
+---
 
 
 ## 3 METODOLOGIA 
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
+Se utilizó la herramienta Maze para test remoto, combinando:
+
+* Pregunta de filtrado inicial.
+* Navegación libre del prototipo.
+* Tarea específica: *añadir un producto a la cesta*.
+* Cuestionario tipo Likert post-test.
+* Cuestionario **SUS (System Usability Scale)**.
+
+Duración promedio de la sesión: **76.8 segundos**
 
  
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
+| Usuario | Edad | Frecuencia de compra online | Nivel experiencia web | Observaciones                    |
+| ------- | ---- | --------------------------- | --------------------- | -------------------------------- |
+| U1      | 25   | Alta                        | Media                 | Baja confianza visual            |
+| U2      | 32   | Alta                        | Alta                  | Valoró positivamente la estética |
+
+Ambos usuarios confirmaron usar internet para compras o reservas habitualmente.
 
 
 
@@ -78,9 +81,8 @@ y Resumen conciso de problemas detectados ]
 
 #### Resultados obtenidos
 
-
-
-(resultado de SUS)
+* **SUS Score promedio**: **51.25 / 100**
+  (Por debajo del estándar de referencia 68 → experiencia deficiente)
 
 
 
@@ -89,41 +91,40 @@ y Resumen conciso de problemas detectados ]
 
 
 
-
-
-
-
-
 ## 4 CONCLUSIONES 
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
+Las pruebas revelan una experiencia de usuario que necesita mucha mejora. Aunque el estilo visual no es del todo correcto (habiendo problemas de contraste con un estilo cargante y una paleta de color no muy acertada), los usuarios no reportaron sobrecarga de clics. La baja percepción de confianza y baja facilidad de navegación indica que el flujo debe optimizarse. Además, faltan funcionalidades clave para la correcta navegavilidad del prototipo.
 
 
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
+* Tuvimos que incluir manualmente el test de un participante debido a un error humano.
+* Tamaño de muestra reducido (2 participantes).
+  
 
 
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
+* **Puntos positivos:**
+
+  * Diseño visual coherente con el tipo de negocio.
+  * Buena experiencia al completar la acción principal (añadir a la cesta).
+  * Se deben realizar pocos clicks para acceder a las funcionalidades principales.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
-
+* Aumentar los elementos que refuercen la **confianza visual** (colores, mensajes de seguridad, elementos de reputación).
+* Incluir **indicadores de progreso** y mensajes más claros en la navegación.
+* Mejorar el contraste y identidad visual general de la Web.
+* Mejorar el navbar para simplificar el menú superior que se ve muy cargado.
 
 
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+Esta prueba ha sido altamente útil para detectar **problemas de usabilidad** que tal vez no eran evidentes a simple vista. Herramientas como Maze, combinadas con el cuestionario SUS, permiten validar hipótesis de diseño de forma rápida y eficaz incluso con pocos participantes.
