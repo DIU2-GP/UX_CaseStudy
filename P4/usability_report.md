@@ -11,10 +11,7 @@
 ### 30/05/2025
 
 
-
-
-
-[img Proyecto]
+![logo](./logo-ecologic.png)
 
 https://github.com/RodriDeLo/UX_CaseStudy
 
