@@ -20,7 +20,7 @@ Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-t
 | Usuarios | [Enlace](./participantes.md) |
 | Diseño de pruebas | [Enlace](./diseño_de_pruebas.md) |
 | Cuestionarios SUS | [Enlace](./cuestionarios_sus.md) |
-| Tabla A/B Testing | [Enlace](./)|
+| Tabla A/B Testing | [Enlace](./abtesting.md)|
 | Eye Tracking para A y B | [Enlace](./eye_tracking.md) |
 | Usability Report | [Enlace](./usability_report.md) |
 
